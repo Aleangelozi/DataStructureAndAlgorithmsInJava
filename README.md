@@ -1,4 +1,4 @@
-# DataStructureAndAlgorithmsInJava
+# Data Structure and Algorithms in Java
 
 A handful Data Structure and Algorithms examples in Java
 
