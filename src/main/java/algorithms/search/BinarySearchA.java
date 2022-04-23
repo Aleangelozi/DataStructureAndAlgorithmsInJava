@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.search;
 
 public class BinarySearchA {
     // binary search = Search algorithm that finds the position

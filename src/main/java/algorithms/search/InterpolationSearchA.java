@@ -1,4 +1,4 @@
-package algorithms;
+package algorithms.search;
 
 public class InterpolationSearchA {
     public static void main(String args[]){
