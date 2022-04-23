@@ -1,3 +1,5 @@
+package data_structures;
+
 import java.util.PriorityQueue;
 import java.util.Queue;
 

@@ -1,4 +1,4 @@
-package dynamic_array_ds;
+package data_structures.dynamic_array_ds;
 
 public class DynamicArray {
 
